@@ -1,10 +1,14 @@
 # 💫About Me :
-🙋‍♂️What´s up? My name is Facundo and i'm a Young Software Developer. Personally, I feel more confortable as a front-end programmer. I have skills in Node.js, Javascript, MySQL, HTML, CSS, Aptugo , Postman , Mongo DB, Scrum , Figma , Phyton. But also i hace experience in others lenguages,
-My goal is to get into the professional world of programming and development, and constantly learn new things. I defined myself as a disciplined and tenacious person, also , I enjoy to work with people who have the same interest as me! 
+👋 Hello there! 
+I'm Facundo De Los Santos!
 
-If you want to contact with me, you should send me an email! 
+💻 I'm Front-End Developer!
 
-✉: facundoidelos@gmail.com
+🏡 I'm from Argentina.
+
+📚 I am currently improving my skills to be the best!
+
+📤 Goals: Find a new job to to impleme 
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/facudelosaantos/?hl=es-la) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/facundo-de-los-santos-17b3a722a/) 
