@@ -7,7 +7,7 @@ I'm Facundo De Los Santos!
 
 📚 I am currently improving my skills to be the best!
 
-📤 Goals: Find a new job to to impleme 
+📤 Goals: Find a new job to Improve me as a Developer and keep coding.
 
 # 💻Tech Stack
 ## 🤖Front-End: 
